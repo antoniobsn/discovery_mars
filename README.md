@@ -7,7 +7,7 @@ Explorar o planeta Marte utilizando sondas espaciais
 ## Como funciona?
 
 Um conjunto de sondas é enviado pela NASA à Marte e irá pousar num planalto. 
-Logo após as sondas terem pousado em Mate, é possivel movementalas atraves de requisições via API.
+Logo após as sondas terem pousado em Marte, é possivel movimenta-las através de requisições via API.
 
 
 ## Documentação da API
